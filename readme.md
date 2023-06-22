@@ -16,3 +16,8 @@ git push -u origin main
 
 # Branching
 git branch branch-1
+git branch
+git status
+
+# Move the branch to branch-1
+git checkout branch-1 
