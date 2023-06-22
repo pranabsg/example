@@ -13,3 +13,6 @@ git status
 git remote add origin https://github.com/pranabsg/example.git
 git branch -M main
 git push -u origin main
+
+# Branching
+git branch branch-1
