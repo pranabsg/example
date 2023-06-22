@@ -40,3 +40,4 @@ git add branch-1.txt
 
 git commit -m "added branch-1.txt"
 
+git push origin branch-1
